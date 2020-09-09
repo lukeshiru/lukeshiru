@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋🏼
 
-<!--
-**lukeshiru/lukeshiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas, an [INTJ](https://www.16personalities.com/intj-personality) Software Engineer, born in [🇦🇷](https://en.wikipedia.org/wiki/Mar_del_Plata) and living in [🇺🇸](https://en.wikipedia.org/wiki/Bellevue,_Washington).
 
-Here are some ideas to get you started:
+For those who care, I'm team [Libra ♎](https://en.wikipedia.org/wiki/Libra_(astrology)), [Earth Snake 🐍](https://en.wikipedia.org/wiki/Snake_(zodiac)), [Slytherin 🐍](https://en.wikipedia.org/wiki/Hogwarts#Slytherin) and [Lannister 🦁](https://en.wikipedia.org/wiki/List_of_A_Song_of_Ice_and_Fire_characters#House_Lannister).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As hobbies I deejay, play games or watch movies/shows/anime 🎧🎮🇯🇵💖
+
+You can check [my resume](https://lshi.ru/resume) on [my website](https://lshi.ru).
+
+## Contact me!
+
+- [📧 EMail](mailto:hi@lshi.ru).
+- [💬 Telegram](https://lshi.ru/t).
+- [🐦 Twitter](https://lshi.ru/tw).
+- [📸 Instagram](https://lshi.ru/ig).
+- [💼 LinkedIn](https://lshi.ru/lin).
+- [🧑🏻‍💻 Dev Community](https://lshi.ru/dev).
+- [📦 NPM](https://lshi.ru/npm).
+- [🎥 YouTube](https://lshi.ru/yt).
+- [⏺️ Twitch](https://lshi.ru/twitch).
