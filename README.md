@@ -15,7 +15,7 @@ You can check [my resume](https://lshi.ru/resume) on [my website](https://lshi.r
 - [🐦 Twitter](https://lshi.ru/tw).
 - [📸 Instagram](https://lshi.ru/ig).
 - [💼 LinkedIn](https://lshi.ru/lin).
-- [🧑🏻‍💻 Dev Community](https://lshi.ru/dev).
+- [💻 Dev Community](https://lshi.ru/dev).
 - [📦 NPM](https://lshi.ru/npm).
 - [🎥 YouTube](https://lshi.ru/yt).
 - [⏺️ Twitch](https://lshi.ru/twitch).
