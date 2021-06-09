@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 100 10">
+	<style>
+		@keyframes rotate {
+			100% {
+				transform: rotate(120deg);
+			}
+		}
+		path {
+			animation: rotate ease-in-out 2s infinite;
+			transform-origin: center;
+			transform-box: fill-box;
+		}
+	</style>
+	<g transform="translate(45, 0)">
+		<path
+			fill="#fff"
+			fill-rule="evenodd"
+			d="M4.39 2.06A3 3 0 002 5a3 3 0 00.15.94L1.54 7h1.23l.11.12A3 3 0 007.23 7h1.23l-.61-1.06a3 3 0 00-2.24-3.88L5 1l-.61 1.06zM1 5a4 4 0 118 0 4 4 0 01-8 0zm4-3l2.6 4.5H2.4L5 2zm0 2l.87 1.5H4.13L5 4z"
+		/>
+	</g>
+</svg>
